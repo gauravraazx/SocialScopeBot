@@ -5,7 +5,7 @@ import os
 import re
 import time
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8483257931:AAHk9MzXEk6awPDTLA5wIZXRpDEwI3tfHs0")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8483257931:AAGTb4gG3TqBeaNQBDaB7WQh_PxFU7EL890")
 bot = telebot.TeleBot(BOT_TOKEN)
 
 def detect_instagram_url(text):
