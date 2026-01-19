@@ -1,0 +1,10 @@
+downloads/
+*.mp4
+*.webm
+*.mkv
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+temp_insta/
